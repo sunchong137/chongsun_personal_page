@@ -19,7 +19,7 @@ img.align-left { float: left; margin-right: 30px; margin-top: 5}
   }
 
 .blueback {
-    max-width: 500px;
+    max-width: 600px;
     min-width: 100px;
     padding-left: 10;
     margin-left: -10;
@@ -38,6 +38,14 @@ img.align-left { float: left; margin-right: 30px; margin-top: 5}
 /* Navigation Bar */
 /* Add a black background color to the top navigation */
 .topnav {
+    max-width: 600px;
+    min-width: 100px;
+    padding-left: 10;
+    margin-left: -10;
+    padding-right: 20;
+    margin-right: -10;
+    padding-top: 5;
+    padding-bottom: 5;
     background-color: #3f37b3;
     overflow: hidden;
   }
